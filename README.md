@@ -78,6 +78,4 @@ https://youtu.be/Iyn0vendf4M?si=yNKIyWQiwGRGUwaD
 
 Rosebank College
 
-Diploma in Information Technology (Software Development)
-
 Programming POE – Cybersecurity Awareness Chatbot Part 3
