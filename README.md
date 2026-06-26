@@ -79,3 +79,8 @@ https://youtu.be/Iyn0vendf4M?si=yNKIyWQiwGRGUwaD
 Rosebank College
 
 Programming POE – Cybersecurity Awareness Chatbot Part 3
+
+## Version Notes
+- v1.0: Initial project upload with chatbot files.
+- v2.0: Added interactive chatbot features and quiz functionality.
+- v3.0: Final POE Part 3 submission with documentation and presentation link.
